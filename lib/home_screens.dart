@@ -10,6 +10,8 @@ class HomeScreens extends StatefulWidget {
 class _HomeScreensState extends State<HomeScreens> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(
+      child: Text("ini tulisan"),
+    );
   }
 }
