@@ -11,7 +11,7 @@ class _Home_ScreenState extends State<Home_Screen> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text('Keren'),
+      child: Text('Keren banget Banggg'),
     );
   }
 }
